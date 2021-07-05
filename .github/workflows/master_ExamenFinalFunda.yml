@@ -49,5 +49,5 @@ jobs:
       with:
         app-name: 'ExamenFinalFunda'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_4c50875135414017be2d39d1a594f4fa }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_7aa16fdd4c294c3dbd5715a97fc1b416 }}
         package: '*.jar'
